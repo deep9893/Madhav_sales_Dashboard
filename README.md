@@ -1,6 +1,26 @@
 # E-Commerce sales Dashboard
+"Analysing data using graphs and charts instead of studying tables with 1000 rows and columns is always a better option"
 
-I have created E-Commerce Sales Dashboard using Power BI. With this dashboard, you'll have access to real-time data visualization that will help you make informed decisions about your sales strategy. Whether you're looking to analyze sales trends, identify high-performing products or sales reps, or track progress towards your sales goals, our Power BI dashboard has got you covered.
+I have design a very first Dashboard using #powerbi for sales analysis.
+
+📌 Situation-
+ 
+ 📍Owner of Madhav Store wants us to help them create a dashboard to track and analyze their online sales across India.
+
+📌 Understanding Requirements -
+ 
+ 📍Sum of Amount by State
+ 📍Sum of Quantity by Category
+ 📍Profit by Month
+ 📍Sum of Amount by Customer Name
+ 📍Sum of Quantity by Payment mode
+ 📍Sum of Profit by Sub- Categories 
+
+📌Action-
+
+ 📍Data Cleaning- Clean the unrelevant and unused data.
+ 📍Data transformation- Transform the data according to the needs in power query editor.
+ 📍Data Visualization-Create interactive visuals in power bi dashboard.
 
 
 Project Learnings
