@@ -1,4 +1,4 @@
-# E-Commerce sales Dashboard
+# E-Commerce Madhav sales Dashboard
 "Analysing data using graphs and charts instead of studying tables with 1000 rows and columns is always a better option"
 
 I have design a very first Dashboard using #powerbi for sales analysis.
